@@ -1,0 +1,5 @@
+Sum of numbers: 50
+English alphabet/characters: 44/634 = 6.94006%
+Total words: 183
+Words that end in !: 2
+Punctuation marks: 69
